@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2w4aHJzajNlaXNjdzNhenRxbTB2dDgwcGk4c3U0cGJ3bzNic25kcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p8Z82VSYbf09j8NBDH/giphy.gif");
+    background-size: cover;
+    font-family: Oxygen, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,  Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #4B7FB9;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #3100FE;
+}
+
+#save-btn {
+    background: #EF6F6F;
+}
+#div-sty {
+    width: max;
+}
+
